@@ -1,0 +1,9 @@
+
+<additional>
+
+	<vType id="vehicleType0" accel="1.0" decel="6.0" length="4.5" minGap="2.5" maxSpeed="10.0" sigma="0.8" color="1,0,0"/>
+	<vType id="vehicleType1" accel="1.0" decel="6.0" length="5.0" minGap="2.5" maxSpeed="15.0" sigma="0.6" color="0,1,0"/>
+	<vType id="vehicleType2" accel="1.0" decel="5.0" length="4.0" minGap="2.5" maxSpeed="20.0" sigma="0.3" color="0,0,1"/>
+	<vType id="vehicleType3" accel="1.0" decel="5.0" length="3.5" minGap="2.5" maxSpeed="5.0" sigma="0.2" color="1,1,0"/>
+
+</additional>

@@ -1,0 +1,5 @@
+<routes>
+    <route id="route0" edges="e1 e2 e3 e7"/>
+    <route id="route1" edges="e1 e6 e7"/>
+    <route id="route2" edges="e1 e4 e5 e7"/>
+</routes>
